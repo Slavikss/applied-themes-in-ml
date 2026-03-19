@@ -693,7 +693,7 @@ if __name__ == "__main__":
     except Exception as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
         raise
-
+# скриншот сабмишена в корне dz2
 # publicScore: 0.19279
 # privateScore: 0.19261
 #Статус: SubmissionStatus.COMPLETE
